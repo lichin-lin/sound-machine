@@ -3,7 +3,7 @@
 
 Tiny playful sound & pattern machine inspired by Teenage Engineering devices and the live-coding world of Strudel. You can build drum patterns, switch to a piano view, record a small melody, or just make sounds with code.  It’s minimal, but leaves space for imagination. ☁️
 
-<video src="https://github.com/lichin-lin/sound-machine/blob/cdce70cd2a529826992c9ad117b0afa7fad738d0/assets/intro.mp4"></video>
+https://github.com/user-attachments/assets/f5c81e71-d9d3-413f-8ff4-43d727892b65
 
 ---
 
