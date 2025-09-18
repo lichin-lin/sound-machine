@@ -1,5 +1,5 @@
 
-## FG-8 | Sound Machine 🎹
+# FG-8 | Sound Machine 🎹
 
 Tiny playful sound & pattern machine inspired by Teenage Engineering devices and the live-coding world of Strudel. You can build drum patterns, switch to a piano view, record a small melody, or just make sounds with code.  It’s minimal, but leaves space for imagination. ☁️
 
@@ -100,6 +100,8 @@ The app should be available at the Vite dev URL (typically http://localhost:3000
 ### 🙏 Inspirations & Thanks
 - Teenage Engineering (visual + playful ethos) – https://teenage.engineering/
 - Strudel community – https://strudel.cc/
+
+![Teenage Engineering](./images/Teenage%20Engineering.png)
 
 ---
 
