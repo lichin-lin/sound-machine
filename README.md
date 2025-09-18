@@ -3,15 +3,7 @@
 
 Tiny playful sound & pattern machine inspired by Teenage Engineering devices and the live-coding world of Strudel. You can build drum patterns, switch to a piano view, record a small melody, or just make sounds with code.  It’s minimal, but leaves space for imagination. ☁️
 
-### Preview
-
-
-| Drum pattern | Piano view |
-|:--:|:--:|
-| ![Drum pattern](./images/Strudel-3.png) | ![Piano view](./images/Strudel-4.png) |
-| Live code REPL | Cover |
-| ![Live code REPL](./images/Strudel-2.png) | ![Cover](./images/Strudel-1.png) |
-
+<video src="/assets/intro.mp4"></video>
 
 ---
 
@@ -28,6 +20,13 @@ Tiny playful sound & pattern machine inspired by Teenage Engineering devices and
 - Code: Live-coded sounds via Strudel (mini REPL embedded).
 - Minimal UI: Influenced by Teenage Engineering’s tactile aesthetic.
 - Open sandbox: A toy first—no heavy workflow, just play.
+
+
+| Drum pattern | Piano view |
+|:--:|:--:|
+| ![Drum pattern](./assets/Strudel-3.png) | ![Piano view](./assets/Strudel-4.png) |
+| Live code REPL | Cover |
+| ![Live code REPL](./assets/Strudel-2.png) | ![Cover](./assets/Strudel-1.png) |
 
 ---
 
@@ -101,7 +100,7 @@ The app should be available at the Vite dev URL (typically http://localhost:3000
 - Teenage Engineering (visual + playful ethos) – https://teenage.engineering/
 - Strudel community – https://strudel.cc/
 
-![Teenage Engineering](./images/Teenage%20Engineering.png)
+![Teenage Engineering](./assets/Teenage%20Engineering.png)
 
 ---
 
