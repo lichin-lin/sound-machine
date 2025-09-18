@@ -3,7 +3,15 @@
 
 Tiny playful sound & pattern machine inspired by Teenage Engineering devices and the live-coding world of Strudel. You can build drum patterns, switch to a piano view, record a small melody, or just make sounds with code.  It’s minimal, but leaves space for imagination. ☁️
 
-<img src="/images/Strudel-1.png" />
+### Preview
+
+
+| Drum pattern | Piano view |
+|:--:|:--:|
+| ![Drum pattern](./images/Strudel-3.png) | ![Piano view](./images/Strudel-4.png) |
+| Live code REPL | Cover |
+| ![Live code REPL](./images/Strudel-2.png) | ![Cover](./images/Strudel-1.png) |
+
 
 ---
 
